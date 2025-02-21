@@ -108,6 +108,7 @@ Figure 1: Early stages of exploratory data analysis.
 - **Correlation Analysis:** There is a positive correlation between popularity and revenue (0.65), leading us to explore these metrics further.
 - **Distribution by Genre:** Non-uniform distribution of average revenue by genre suggests interesting insights in terms of genre performance.
 
+<br></br>
 ## Visualizations
 
 ### Revenue by Genre, Broadly
@@ -117,25 +118,31 @@ A horizontal bar chart shows the average revenue for each genre. In the interact
 
 Figure 2: Average revenue by movie genre from 2001 to 2015.
 
+<br></br>
 ### Identifying and Examining Seasonal Boosts
 We explored how revenue by genre changes throughout the year. Some genres thrive during Spring and Summer, particularly Adventure, Animation, Science Fiction, and Family.
 
-![Heatmap of Average Revenues by Genre](images/final_drafts/heatmap - avg rev.jpg)
+<center>
+  <img src='images/final_drafts/heatmap - avg rev.jpg'>
+</center>
 
 Figure 3: Heatmap of average revenues by genre and month.
 
+<br></br>
 A bar chart comparing "warm season" genres against Thriller reveals how these genres achieve higher shares of popularity and revenue during Spring and Summer.
 
 ![Warm Season Genres](images/genres_thrive_warmer_weather.png)
 
 Figure 4: Genres like Adventure, Animation, and Family earn higher shares in warmer months.
 
+<br></br>
 The Sankey diagram below illustrates which genres are likely to release a blockbuster in warmer seasons.
 
 ![Summer Blockbuster Sankey](images/final_drafts/summer_blockbuster_sankey.png)
 
 Figure 5: Warm season genres don't necessarily release more blockbusters.
 
+<br></br>
 ### Correlation between Revenue and Popularity
 We assessed the linear correlation between revenue and popularity, using faceted scatterplots to analyze specific genres.
 
@@ -143,12 +150,14 @@ We assessed the linear correlation between revenue and popularity, using faceted
 
 Figure 6: Correlation between revenue and popularity varies by genre.
 
+<br></br>
 The following graph provides an overall correlation value, highlighting the concentration of points in the density plot.
 
 ![Revenue-Popularity Correlation](images/overall_rev_and_pop_and_with_density.png)
 
 Figure 7: Overall correlation between revenue and popularity.
 
+<br></br>
 ## Analysis and Discussion
 ### Main Results
 1. **Animation Genre Performance:** Despite relatively few films, the Animation genre ranks in the top 5 for revenue.
@@ -158,6 +167,7 @@ Figure 7: Overall correlation between revenue and popularity.
 ### Further Analysis
 Further statistical techniques such as regression analysis and clustering can validate hypotheses generated from visualizations.
 
+<br></br>
 ## Individual Reports
 ### George Tzimas
 **Contributions:**
