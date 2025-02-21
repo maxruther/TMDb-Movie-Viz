@@ -120,7 +120,7 @@ Figure 2: Average revenue by movie genre from 2001 to 2015.
 ### Identifying and Examining Seasonal Boosts
 We explored how revenue by genre changes throughout the year. Some genres thrive during Spring and Summer, particularly Adventure, Animation, Science Fiction, and Family.
 
-![Heatmap of Average Revenues by Genre](images/final_drafts/heatmap_-_avg_rev.jpg)
+![Heatmap of Average Revenues by Genre](images/final_drafts/heatmap - avg rev.jpg)
 
 Figure 3: Heatmap of average revenues by genre and month.
 
