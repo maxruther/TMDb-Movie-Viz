@@ -2,7 +2,7 @@
 
 ## Overview
 
-In a course I took at DePaul, _DSC 365 (Data Visualization)_, I took part in a final group project where we were asked to produce thoughtful visualizations for a dataset of our choice. We focused on a dataset of movies, pulled from _The Movie Database (TMDb)_.
+In a course I took at DePaul, _DSC 465 (Data Visualization)_, I took part in a final group project where we were asked to produce thoughtful visualizations for a dataset of our choice. We focused on a dataset of movies, pulled from _The Movie Database (TMDb)_.
 
 Our full final report is available <a href='Final Project Submission.pdf'>here</a>. 
 
