@@ -8,6 +8,8 @@ Our full final report is available <a href='Final Project Submission.pdf'>here</
 
 A quicker overview of our project is available <a href='Project_Overview.md'>here</a>.
 
+My analysis is available in <a href='code/analysis and scratchwork.Rmd'>R markdown</a> and <a href='code/analysis and scratchwork.html'>HTML</a>. My Sankey(s) are interactive in the latter.
+
 <br></br>
 ## My Contributions
 My main contributions to this report and project include:
